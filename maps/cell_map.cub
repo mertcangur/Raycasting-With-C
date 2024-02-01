@@ -1,0 +1,11 @@
+NO ./textures/test11.xpm
+SO ./textures/test44.xpm
+WE ./textures/test33.xpm
+EA ./textures/test22.xpm
+
+F 100,200,230
+C 200,105, 1
+
+111
+1N1
+111
